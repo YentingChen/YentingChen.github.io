@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: yentingchen.github.io//sitemap.xml
